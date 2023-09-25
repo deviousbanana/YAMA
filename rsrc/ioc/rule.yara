@@ -36,7 +36,7 @@ rule merlin
 		any of them
 }
 
-rule testy-cs 
+rule testy_cs 
 {
 	meta:
 		description = "testy test"
@@ -47,7 +47,6 @@ rule testy-cs
 	condition:
 		any of them
 }
-
 
 rule Windows_Trojan_CobaltStrike_c851687a {
     meta:
